@@ -15,9 +15,14 @@ public class MainActivity extends AppCompatActivity {
     void hellokisliye(){
         int hell = 12 ;
     }
-    private void xcdhsb()
+
+    private void xcd()
     {
         int i=3;
+    }
+    public void hdgkj()
+    {
+        int ii=2;
     }
     void bhaisab() {
         int fhb =0 ;
