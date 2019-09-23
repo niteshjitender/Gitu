@@ -11,8 +11,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    private void xcdhsb()
+    private void xcd()
     {
         int i=3;
+    }
+    public void hdgkj()
+    {
+        int ii=2;
     }
 }
