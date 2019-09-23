@@ -11,12 +11,16 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    void hellokisliye(){
+        int hell = 12 ;
+    }
     private void xcdhsb()
     {
         int i=3;
     }
-    void hello(){
-        int helloooo = 9 ;
+    void bhaisab() {
+        int fhb =0 ;
     }
 
 }
